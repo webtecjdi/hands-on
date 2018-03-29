@@ -1,0 +1,27 @@
+* {
+    margin: 2px;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#container>div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#quadrado {
+    background-color: #333;
+    width: 100px;
+    height: 100px;
+    color: #fff;
+    border-radius: 5px;
+}
+
+#quadrado2 {
+    background-color: #333;
+    width: 100px;
+    height: 100px;
+    color: #fff;
+    border-radius: 5px;
+}
