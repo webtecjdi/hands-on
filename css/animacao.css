@@ -1,0 +1,12 @@
+* {
+    margin: 2px;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+#elemento{
+    width: 500px;
+    height: 500px;
+    background: springgreen;
+}
